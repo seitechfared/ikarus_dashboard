@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@500;600;700&display=swap');
+@import './design-tokens/figma-tokens.css';
+
+:root {
+  /* Import Figma tokens first, then map to semantic names */
+  
+  /* Typography - Map to Figma font tokens */
+  --font-display: var(--font-login-family, 'Poppins'), var(--font-1-family, 'Montserrat'), 'Segoe UI', sans-serif;
+  --font-body: var(--font-1-family, 'Montserrat'), var(--font-text-family, 'Montserrat'), 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'Source Code Pro', Menlo, Monaco, Consolas, monospace;
+
+  /* Text Colors - Map to Figma color tokens */
+  --color-ink-900: var(--color-2, #011309); /* Primary dark text */
+  --color-ink-800: var(--color-vector, #1f242e); /* Secondary dark text */
+  --color-ink-700: var(--color-1, #3e4f44); /* Medium text */
+  --color-ink-600: var(--color-title, #67716b); /* Muted text */
+  --color-ink-400: var(--color-property-1on, #99a19d); /* Light text */
+  --color-ink-muted: rgba(103, 113, 107, 0.72); /* Semi-transparent muted */
+
+  /* Surface Colors - Map to Figma background tokens */
+  --color-surface: var(--color-3, #ffffff); /* White background */
+  --color-surface-muted: var(--color-property-1default, #f2f3f3); /* Light gray background */
+  --color-surface-subtle: var(--color-menu-item, #eef4e4); /* Subtle green tint */
+  --color-surface-elevated: var(--color-frame-26910, #f5f8ef); /* Elevated surface */
+
+  /* Primary Colors - Map to Figma brand colors */
+  --color-primary-700: var(--color-frame-1000003785, #124d5e); /* Dark primary */
+  --color-primary-500: var(--color-button, #74a42d); /* Main primary green */
+  --color-primary-300: var(--color-frame-1597886616, #d7e02d); /* Light primary */
+  --color-focus: var(--color-frame-1000003785, #124d5e); /* Focus state */
+  --theme-primary: var(--color-primary-500, #74a42d);
+  --theme-secondary: var(--color-primary-700, #124d5e);
+  --theme-primary-rgb: 116, 164, 45;
+  --theme-secondary-rgb: 18, 77, 94;
+
+  /* Status Colors - Map to Figma status colors */
+  --color-success: var(--color-property-1available, #2ea561); /* Success green */
+  --color-info: var(--color-ellipse-668, #006c9c); /* Info blue */
+  --color-progress: var(--color-property-1charging, #006c9c); /* Progress blue */
+  --color-warning: var(--color-property-1preparingming, #de8e15); /* Warning orange */
+  --color-danger: var(--color-property-1unavailable, #ed4a4a); /* Error red */
+  --color-success-rgb: 46, 165, 97;
+  --color-info-rgb: 0, 108, 156;
+  --color-warning-rgb: 222, 142, 21;
+  --color-danger-rgb: 237, 74, 74;
+
+  /* Border Radius - Map to Figma spacing/size tokens */
+  --radius-lg: var(--spacing-22, 24px); /* Large radius */
+  --radius-md: var(--spacing-13, 12px); /* Medium radius */
+  --radius-sm: var(--spacing-11, 10px); /* Small radius */
+  --radius-xs: var(--spacing-9, 8px); /* Extra small radius */
+
+  /* Spacing - Map to Figma spacing tokens */
+  --spacing-xs: var(--spacing-5, 4px);
+  --spacing-sm: var(--spacing-9, 8px);
+  --spacing-md: var(--spacing-13, 12px);
+  --spacing-lg: var(--spacing-16, 16px);
+  --spacing-xl: var(--spacing-22, 24px);
+  --spacing-2xl: var(--spacing-26, 32px);
+  --spacing-3xl: var(--spacing-31, 40px);
+
+  /* Shadows - Map to Figma shadow tokens */
+  --shadow-sm: var(--shadow-property-1default, 0px 0px 8px 0px rgba(0, 0, 0, 0.02));
+  --shadow-md: var(--shadow-card, 0px 0px 8px 0px rgba(0, 0, 0, 0.02));
+  --shadow-lg: var(--shadow-content, 0px 0px 40px -4px rgba(145, 158, 171, 0.24));
+  --shadow-xl: var(--shadow-side-menu, 20px -10px 60px 0px rgba(233, 240, 228, 0.32));
+  --shadow-focus: var(--shadow-property-1foucesd, 0px 4px 12px 0px rgba(84, 116, 69, 0.12));
+
+  font-family: var(--font-body);
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-surface-muted);
+  color: var(--color-ink-900);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  background-color: var(--color-surface-muted);
+  color: var(--color-ink-900);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  color: var(--color-ink-800);
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}

@@ -1,0 +1,4061 @@
+{
+  "colors": {
+    "1": "#3e4f44",
+    "2": "#011309",
+    "3": "#ffffff",
+    "4": "#3e4f44",
+    "5": "#011309",
+    "6": "#011309",
+    "7": "#3e4f44",
+    "8": "#3e4f44",
+    "9": "#3e4f44",
+    "10": "#3e4f44",
+    "12": "#1a2217",
+    "20": "#1a2217",
+    "22": "#1a2217",
+    "24": "#1a2217",
+    "33": "#1a274f",
+    "35": "#ed4a4a",
+    "40": "#011309",
+    "42": "#1a2217",
+    "45": "#1a2217",
+    "50": "#4b7441",
+    "52": "#011309",
+    "60": "#3e4f44",
+    "65": "#2ea561",
+    "80": "#1a2217",
+    "100": "#3e4f44",
+    "112": "#1a2217",
+    "144": "#1a2217",
+    "189": "#3e4f44",
+    "220": "#3e4f44",
+    "250": "#3e4f44",
+    "300": "#3e4f44",
+    "375": "#3e4f44",
+    "380": "#3e4f44",
+    "500": "#3e4f44",
+    "640": "#1a2217",
+    "700": "#1a2217",
+    "812": "#011309",
+    "910": "#1a2217",
+    "1200": "#1a2217",
+    "1814": "#1a2217",
+    "2336": "#3e4f44",
+    "2458": "#1a2217",
+    "3000": "#3e4f44",
+    "4024": "#1a2217",
+    "5780": "#011309",
+    "8700": "#011309",
+    "11632": "#3e4f44",
+    "31018": "#3e4f44",
+    "52000": "#1a2217",
+    "59217": "#1a2217",
+    "852000": "#1a2217",
+    "4201530": "#3e4f44",
+    "5921700": "#1a2217",
+    "12022025": "#3e4f44",
+    "59217904": "#1a2217",
+    "samir-hassan": "#011309",
+    "title": "#67716b",
+    "frame-1597886371": "#74a42d",
+    "status": "#ffffff",
+    "vector": "#1f242e",
+    "property-1selected": "#eef4e4",
+    "caption": "#637381",
+    "shape": "#637381",
+    "label": "#4b7441",
+    "oval": "#67716b",
+    "property-1main": "#ffffff",
+    "menu-item": "#eef4e4",
+    "badgestatus": "#36b37e",
+    "property-1billing": "#ffffff",
+    "property-1user-management": "#ffffff",
+    "property-1variant2": "#eef4e4",
+    "property-1primary-property-2large-property-3active": "#74a42d",
+    "property-1primary-property-2small-property-3active": "#74a42d",
+    "property-1primary-property-2large-property-3disable": "#e6e7e6",
+    "property-1primary-property-2small-property-3disable": "#e6e7e6",
+    "circle": "#74a42d",
+    "rectangle-5623": "#74a42d",
+    "property-1on": "#99a19d",
+    "frame": "#ffffff",
+    "property-1off": "#74a42d",
+    "frame-26910": "#f5f8ef",
+    "input-field-status": "#f2f3f3",
+    "text": "#797d79",
+    "rectangle-2": "#e6e6e6",
+    "property-1default": "#f2f3f3",
+    "property-1filled": "#f2f3f3",
+    "text-value": "#797d79",
+    "property-1inactive": "#f2f3f3",
+    "property-1foucesd": "#f2f3f3",
+    "value": "#011309",
+    "property-1variant3": "#ffffff",
+    "frame-427322958": "#f3f5f6",
+    "property-1unavailable": "#ed4a4a",
+    "property-1available": "#2ea561",
+    "property-1canceled": "#3e4f44",
+    "property-1faulted": "#f6e5e0",
+    "property-1finishing": "#dee0fa",
+    "property-1status-2": "#faf6cf",
+    "property-1preparingming": "#de8e15",
+    "property-1charging": "#006c9c",
+    "ellipse-2308": "#de8e15",
+    "pagetitle": "#de8e15",
+    "ellipse-665": "#ed4a4a",
+    "ellipse-667": "#2ea561",
+    "ellipse-668": "#006c9c",
+    "ellipse-669": "#b72800",
+    "ellipse-670": "#3e4f44",
+    "filter-menu-header": "#ffffff",
+    "filter-menu-footer": "#ffffff",
+    "button": "#74a42d",
+    "badgesbadge": "#ed4a4a",
+    "typetoast-3": "#f1fff7",
+    "icon": "#c6f0d8",
+    "bounding-box": "#d9d9d9",
+    "checkcircle": "#2ea561",
+    "content": "#011309",
+    "label-text": "#00ed88",
+    "typetoast-2": "#fff7d9",
+    "typetoast-1": "#ffe6e6",
+    "cancel": "#f04248",
+    "frame-1597886387": "#74a42d",
+    "colors": "#ffffff",
+    "frame-1000003786": "#011309",
+    "frame-1000003784": "#74a42d",
+    "frame-1000003785": "#124d5e",
+    "frame-1000003787": "#ccd0ce",
+    "frame-1000003788": "#e6e7e6",
+    "frame-1000003789": "#f2f3f3",
+    "frame-1000003792": "#ed4a4a",
+    "frame-1000003791": "#de8e15",
+    "frame-1000003790": "#006c9c",
+    "block-alert": "#f8f9f8",
+    "side-menu": "#ffffff",
+    "filter-menu": "#eceef1",
+    "arrow-left-1--streamline-ultimate": "#e6e7e6",
+    "table-header": "#f2f3f3",
+    "frame-317": "#f2f3f3",
+    "no": "#3e4f44",
+    "frame-318": "#f2f3f3",
+    "type": "#3e4f44",
+    "frame-323": "#f2f3f3",
+    "start-date": "#3e4f44",
+    "frame-324": "#f2f3f3",
+    "complete-date": "#3e4f44",
+    "frame-327": "#f2f3f3",
+    "amount-egp": "#3e4f44",
+    "frame-328": "#f2f3f3",
+    "frame-354": "#ffffff",
+    "tablecell": "#ffffff",
+    "frame-332": "#ffffff",
+    "withdrawal": "#3e4f44",
+    "frame-427323861": "#ffffff",
+    "2025-07-14": "#3e4f44",
+    "frame-427323862": "#ffffff",
+    "frame-343": "#ffffff",
+    "frame-427323866": "#ffffff",
+    "frame-404": "#ffffff",
+    "frame-427323868": "#ffffff",
+    "frame-406": "#ffffff",
+    "charge": "#3e4f44",
+    "frame-405": "#ffffff",
+    "tablepagination": "#ffffff",
+    "rows-per-page": "#011309",
+    "select": "#f2f3f3",
+    "label-start": "#212b36",
+    "switch": "#919eab",
+    "thumb": "#f9fafb",
+    "label-end": "#212b36",
+    "6-10-of-11": "#011309",
+    "frame-427323959": "#000000",
+    "header": "#ffffff",
+    "warning-icon-container": "#ffffff",
+    "confirmation-message": "#011309",
+    "action-buttons-container": "#ffffff",
+    "iphone-13-mini---4": "#ffffff",
+    "iphone-13-mini---3": "#375210",
+    "desktop---1": "#f8f9f8",
+    "card": "#ffffff",
+    "chargers": "#1a2217",
+    "frame-427323825": "#f5f8ef",
+    "public": "#797d79",
+    "private": "#797d79",
+    "semi-public": "#797d79",
+    "connectors": "#1a2217",
+    "dc": "#797d79",
+    "ac": "#797d79",
+    "customers": "#1a2217",
+    "active": "#797d79",
+    "inactive": "#797d79",
+    "new": "#797d79",
+    "sessions": "#1a2217",
+    "frame-427323823": "#f5f8ef",
+    "trend": "#2ea561",
+    "todays-session": "#797d79",
+    "energy": "#1a2217",
+    "kwh": "#797d79",
+    "todays-energy": "#797d79",
+    "today-invalid-billing-sessions": "#1a2217",
+    "total": "#797d79",
+    "alerts": "#011309",
+    "warning-triangle--streamline-core-remix": "#ed4a4a",
+    "union": "#ed4a4a",
+    "connector-a20240302010---1-faulted": "#011309",
+    "session-transaction-id-67484394---blocked": "#011309",
+    "frame-1597886614": "#e6e7e6",
+    "rectangle-45": "#209553",
+    "rectangle-46": "#006c9c",
+    "rectangle-48": "#dbaa2c",
+    "rectangle-49": "#b72800",
+    "rectangle-47": "#da3a3a",
+    "rectangle-644": "#c1e2cf",
+    "available": "#67716b",
+    "rectangle-645": "#f5c8c8",
+    "unavailable": "#67716b",
+    "charging": "#67716b",
+    "preparing": "#67716b",
+    "faulted": "#67716b",
+    "total-connectors": "#67716b",
+    "frame-1597886615": "#74a42d",
+    "frame-1597886616": "#d7e02d",
+    "base": "#ffffff",
+    "wed-19-may-2021": "#000000",
+    "wed-19-may-2022": "#000000",
+    "chargers-condition": "#011309",
+    "pie0": "#c1e2cf",
+    "pie1": "#f5c8c8",
+    "revenue": "#1a2217",
+    "egp": "#797d79",
+    "todays-revenue": "#797d79",
+    "avg-revenue--session": "#1a2217",
+    "frame-427323824": "#f5f8ef",
+    "egp--session": "#797d79",
+    "top-5-revenue-by-owner": "#011309",
+    "---": "#1a2217",
+    "line": "#74a42d",
+    "input-hug": "#000000",
+    "author": "#000000",
+    "frame-427323850": "#74a42d",
+    "frame-427323853": "#74a42d",
+    "frame-427323851": "#74a42d",
+    "frame-427323852": "#74a42d",
+    "desktop---2": "#f8f9f8",
+    "search": "#ffffff",
+    "frame-355": "#f2f3f3",
+    "name": "#3e4f44",
+    "frame-319": "#f2f3f3",
+    "address": "#3e4f44",
+    "frame-315": "#f2f3f3",
+    "governorate": "#3e4f44",
+    "frame-316": "#f2f3f3",
+    "partner": "#3e4f44",
+    "frame-320": "#f2f3f3",
+    "el-obour-charging-station": "#3e4f44",
+    "frame-334": "#ffffff",
+    "5f66fpp--el-nahda-al-salam-first-cairo-governorate-4651001-egypt": "#3e4f44",
+    "frame-333": "#ffffff",
+    "cairo": "#3e4f44",
+    "frame-329": "#ffffff",
+    "ikarus": "#3e4f44",
+    "frame-335": "#ffffff",
+    "frame-397": "#ffffff",
+    "frame-410": "#ffffff",
+    "frame-407": "#ffffff",
+    "frame-408": "#ffffff",
+    "frame-409": "#ffffff",
+    "frame-403": "#ffffff",
+    "desktop---717": "#f8f9f8",
+    "station": "#3e4f44",
+    "charge-box-id": "#3e4f44",
+    "frame-322": "#f2f3f3",
+    "cahrger-sttaus": "#3e4f44",
+    "frame-321": "#f2f3f3",
+    "visibility": "#3e4f44",
+    "brand": "#3e4f44",
+    "tacw2242622s0214": "#3e4f44",
+    "frame-338": "#ffffff",
+    "frame-336": "#ffffff",
+    "frame-415": "#ffffff",
+    "frame-427323865": "#ffffff",
+    "ellipse-664": "#2ea561",
+    "frame-427323864": "#ffffff",
+    "frame-413": "#ffffff",
+    "frame-416": "#ffffff",
+    "frame-412": "#ffffff",
+    "frame-417": "#ffffff",
+    "frame-411": "#ffffff",
+    "-": "#3e4f44",
+    "frame-414": "#ffffff",
+    "frame-418": "#ffffff",
+    "frame-427323121": "#f9fafb",
+    "ikega202403020101": "#011309",
+    "desktop---735": "#f8f9f8",
+    "frame-427323842": "#ffffff",
+    "vodafone-zahraa": "#011309",
+    "charger-id--tacw2242622s0214": "#011309",
+    "city--giza": "#011309",
+    "connectors-": "#011309",
+    "ellipse-666": "#2ea561",
+    "desktop---695": "#f8f9f8",
+    "frame-427322963": "#ffffff",
+    "frame-427323048": "#ffffff",
+    "drop-menu-item": "#ffffff",
+    "ellipse-663": "#dc5353",
+    "-caret": "#ffffff",
+    "desktop---3": "#f8f9f8",
+    "iconbutton": "#e6e7e6",
+    "desktop---5": "#f8f9f8",
+    "frame-427323840": "#ffffff",
+    "desktop---696": "#f8f9f8",
+    "frame-427323849": "#ffffff",
+    "rectangle-274": "#e7e6e9",
+    "rectangle-275": "#74a42d",
+    "ellipse-62": "#74a42d",
+    "ellipse-63": "#ffffff",
+    "entered-text": "#011309",
+    "desktop---723": "#f8f9f8",
+    "desktop---753": "#f8f9f8",
+    "desktop---698": "#f8f9f8",
+    "desktop---720": "#f8f9f8",
+    "frame-427323117": "#ffffff",
+    "frame-427323863": "#ffffff",
+    "connector-id": "#3e4f44",
+    "power-type": "#3e4f44",
+    "format": "#3e4f44",
+    "plug": "#3e4f44",
+    "frame-325": "#f2f3f3",
+    "power-kw": "#3e4f44",
+    "frame-326": "#f2f3f3",
+    "voltage": "#3e4f44",
+    "amperage-a": "#3e4f44",
+    "a20240302010---1": "#3e4f44",
+    "cable": "#3e4f44",
+    "ccs2": "#3e4f44",
+    "frame-427323867": "#ffffff",
+    "frame-420": "#ffffff",
+    "a20240302010---2": "#3e4f44",
+    "desktop---736": "#f8f9f8",
+    "frame-427323338": "#ffffff",
+    "tabs-chevron-right": "#f2f3f3",
+    "frame-427323950": "#000000",
+    "desktop---740": "#f8f9f8",
+    "toast": "#f1fff7",
+    "desktop---749": "#f8f9f8",
+    "desktop---739": "#f8f9f8",
+    "desktop---741": "#f8f9f8",
+    "desktop---742": "#f8f9f8",
+    "desktop---738": "#f8f9f8",
+    "desktop---724": "#f8f9f8",
+    "user": "#3e4f44",
+    "connector": "#3e4f44",
+    "start": "#3e4f44",
+    "end": "#3e4f44",
+    "duration": "#3e4f44",
+    "energy-kwh": "#3e4f44",
+    "revenue-egp": "#3e4f44",
+    "ahmedsalahgmailcom": "#3e4f44",
+    "27m": "#3e4f44",
+    "frame-431": "#ffffff",
+    "frame-439": "#ffffff",
+    "frame-438": "#ffffff",
+    "frame-442": "#ffffff",
+    "frame-440": "#ffffff",
+    "frame-437": "#ffffff",
+    "frame-443": "#ffffff",
+    "frame-444": "#ffffff",
+    "frame-441": "#ffffff",
+    "desktop---752": "#f8f9f8",
+    "action": "#3e4f44",
+    "date": "#3e4f44",
+    "admin": "#3e4f44",
+    "unlock-connector": "#3e4f44",
+    "frame-448": "#ffffff",
+    "get-configuration": "#3e4f44",
+    "frame-459": "#ffffff",
+    "frame-457": "#ffffff",
+    "remote-stop-transaction": "#3e4f44",
+    "frame-455": "#ffffff",
+    "frame-461": "#ffffff",
+    "frame-458": "#ffffff",
+    "frame-456": "#ffffff",
+    "frame-460": "#ffffff",
+    "frame-454": "#ffffff",
+    "desktop---743": "#f8f9f8",
+    "message-type": "#3e4f44",
+    "start-time": "#3e4f44",
+    "end-time": "#3e4f44",
+    "direction": "#3e4f44",
+    "message": "#3e4f44",
+    "frame-452": "#ffffff",
+    "status-notifications": "#3e4f44",
+    "frame-427323869": "#ffffff",
+    "12-sec": "#3e4f44",
+    "from-cp": "#3e4f44",
+    "frame-427323870": "#ffffff",
+    "error-code": "#3e4f44",
+    "no-error": "#3e4f44",
+    "connector-status": "#3e4f44",
+    "frame-427323871": "#ffffff",
+    "time-stamp": "#3e4f44",
+    "2025-07-14-233601": "#3e4f44",
+    "frame-453": "#ffffff",
+    "start-transaction": "#3e4f44",
+    "frame-427323873": "#ffffff",
+    "id-tag": "#3e4f44",
+    "tsf235lo60ujtkh4olzi": "#3e4f44",
+    "meter-start": "#3e4f44",
+    "frame-427323872": "#ffffff",
+    "error-message-starttransaction-failed-with-status-invalid": "#3e4f44",
+    "frame-449": "#ffffff",
+    "request": "#3e4f44",
+    "frame-447": "#ffffff",
+    "frame-450": "#ffffff",
+    "frame-445": "#ffffff",
+    "frame-451": "#ffffff",
+    "frame-446": "#ffffff",
+    "live-meter-values": "#f8f9f8",
+    "charger-id-chg-00921128420099--type-metervalues-measured-voltage--value-387-v--id-tag-980348753409843-context-sampleperiodic--location-outlet-1--format-row": "#b72800",
+    "desktop---706": "#f8f9f8",
+    "desktop---746": "#f8f9f8",
+    "desktop---699": "#f8f9f8",
+    "desktop---748": "#f8f9f8",
+    "toggle-button": "#74a42d",
+    "desktop---747": "#f8f9f8",
+    "desktop---694": "#f8f9f8",
+    "desktop---719": "#f8f9f8",
+    "calendar-days": "#ffffff",
+    "sep-2024": "#011309",
+    "range-highlight-end": "#e8def8",
+    "range-highlight-start": "#f2f3f3",
+    "container": "#74a42d",
+    "range-highlight-middle": "#f2f3f3",
+    "desktop---702": "#ffffff",
+    "desktop---703": "#152003",
+    "ikarus-effortless-control-for-your-ev-chargers": "#ffffff",
+    "frame-8": "#ffffff",
+    "login": "#011309",
+    "desktop---705": "#ffffff",
+    "desktop---726": "#f8f9f8",
+    "min": "#797d79",
+    "m": "#797d79",
+    "desktop---727": "#f8f9f8",
+    "desktop---734": "#f8f9f8",
+    "owner--vodafone": "#011309",
+    "chargers-": "#011309",
+    "frame-356": "#ffffff",
+    "frame-357": "#ffffff",
+    "frame-358": "#ffffff",
+    "frame-427323975": "#ffffff",
+    "admins": "#f8f9f8",
+    "rating-average": "#1a2217",
+    "emial": "#3e4f44",
+    "rating": "#3e4f44",
+    "comment": "#3e4f44",
+    "mostafagomaagmailcom": "#3e4f44",
+    "frame-337": "#ffffff",
+    "-----------": "#3e4f44",
+    "frame-367": "#ffffff",
+    "frame-339": "#ffffff",
+    "good-app-good-chargers": "#3e4f44",
+    "frame-376": "#ffffff",
+    "frame-378": "#ffffff",
+    "frame-377": "#ffffff",
+    "frame-380": "#ffffff",
+    "frame-381": "#ffffff",
+    "frame-379": "#ffffff",
+    "frame-383": "#ffffff",
+    "frame-382": "#ffffff",
+    "frame-427323885": "#74a42d",
+    "frame-427323854": "#74a42d",
+    "frame-427323855": "#74a42d",
+    "frame-427323856": "#74a42d",
+    "frame-1597886595": "#74a42d",
+    "frame-427323940": "#74a42d",
+    "frame-427323884": "#74a42d",
+    "desktop---730": "#f8f9f8",
+    "frame-330": "#f2f3f3",
+    "frame-421": "#ffffff",
+    "frame-422": "#ffffff",
+    "a20240302010---3": "#3e4f44",
+    "frame-423": "#ffffff",
+    "frame-424": "#ffffff",
+    "frame-425": "#ffffff",
+    "frame-426": "#ffffff",
+    "frame-427": "#ffffff",
+    "frame-428": "#ffffff",
+    "desktop---708": "#f8f9f8",
+    "company-type": "#3e4f44",
+    "phone": "#3e4f44",
+    "email": "#3e4f44",
+    "limited-liability-companies-lics": "#3e4f44",
+    "20-1012345678": "#3e4f44",
+    "emailcompanycom": "#3e4f44",
+    "desktop---712": "#f8f9f8",
+    "id": "#3e4f44",
+    "valid-from": "#3e4f44",
+    "------": "#3e4f44",
+    "site-956493": "#3e4f44",
+    "frame-465": "#ffffff",
+    "frame-466": "#ffffff",
+    "frame-464": "#ffffff",
+    "frame-468": "#ffffff",
+    "frame-467": "#ffffff",
+    "frame-469": "#ffffff",
+    "frame-462": "#ffffff",
+    "frame-463": "#ffffff",
+    "desktop---737": "#f8f9f8",
+    "warning-message": "#67716b",
+    "desktop---714": "#f8f9f8",
+    "first-name": "#3e4f44",
+    "last-name": "#3e4f44",
+    "created": "#3e4f44",
+    "mostafa": "#3e4f44",
+    "gomaa": "#3e4f44",
+    "emailuusercom": "#3e4f44",
+    "frame-474": "#ffffff",
+    "frame-475": "#ffffff",
+    "frame-473": "#ffffff",
+    "frame-476": "#ffffff",
+    "frame-472": "#ffffff",
+    "frame-477": "#ffffff",
+    "frame-471": "#ffffff",
+    "frame-478": "#ffffff",
+    "frame-470": "#ffffff",
+    "desktop---709": "#f8f9f8",
+    "frame-427323843": "#ffffff",
+    "frame-427323844": "#ffffff",
+    "desktop---713": "#f8f9f8",
+    "desktop---729": "#f8f9f8",
+    "desktop---715": "#f8f9f8",
+    "desktop---716": "#f8f9f8",
+    "desktop---710": "#f8f9f8",
+    "desktop---711": "#f8f9f8",
+    "view-maintenance-partner": "#f8f9f8",
+    "view-site-owner": "#f8f9f8",
+    "view-customer": "#f8f9f8",
+    "owner": "#3e4f44",
+    "charger": "#3e4f44",
+    "end-date": "#3e4f44",
+    "amount": "#3e4f44",
+    "al-banfsag-1": "#3e4f44",
+    "frame-342": "#ffffff",
+    "27-m": "#3e4f44",
+    "frame-344": "#ffffff",
+    "frame-401": "#ffffff",
+    "frame-402": "#ffffff",
+    "frame-399": "#ffffff",
+    "frame-400": "#ffffff",
+    "frame-398": "#ffffff",
+    "view-admin": "#f8f9f8",
+    "rule": "#3e4f44",
+    "amina": "#3e4f44",
+    "el-sayed": "#3e4f44",
+    "aminaeusercom": "#3e4f44",
+    "super-admin": "#3e4f44",
+    "samir": "#3e4f44",
+    "hassan": "#3e4f44",
+    "samirhusercom": "#3e4f44",
+    "backend-developer": "#3e4f44",
+    "leila": "#3e4f44",
+    "farouk": "#3e4f44",
+    "leilafusercom": "#3e4f44",
+    "product-manager": "#3e4f44",
+    "frame-359": "#ffffff",
+    "youssef": "#3e4f44",
+    "khaled": "#3e4f44",
+    "youssefkusercom": "#3e4f44",
+    "data-scientist": "#3e4f44",
+    "frame-360": "#ffffff",
+    "sara": "#3e4f44",
+    "mansour": "#3e4f44",
+    "saramusercom": "#3e4f44",
+    "quality-assurance": "#3e4f44",
+    "frame-361": "#ffffff",
+    "omar": "#3e4f44",
+    "zaki": "#3e4f44",
+    "omarzusercom": "#3e4f44",
+    "devops-engineer": "#3e4f44",
+    "frame-362": "#ffffff",
+    "nadia": "#3e4f44",
+    "el-sabbagh": "#3e4f44",
+    "nadiaeusercom": "#3e4f44",
+    "content-strategist": "#3e4f44",
+    "frame-363": "#ffffff",
+    "mohamed": "#3e4f44",
+    "hassanmusercom": "#3e4f44",
+    "mobile-developer": "#3e4f44",
+    "frame-364": "#ffffff",
+    "delete-admin": "#f8f9f8",
+    "position": "#3e4f44",
+    "frontend-developer": "#3e4f44",
+    "uiux-designer": "#3e4f44",
+    "customer": "#3e4f44",
+    "samirhassangmailcom": "#3e4f44",
+    "frame-394": "#ffffff",
+    "frame-391": "#ffffff",
+    "frame-389": "#ffffff",
+    "frame-393": "#ffffff",
+    "frame-388": "#ffffff",
+    "frame-392": "#ffffff",
+    "frame-390": "#ffffff",
+    "admin-action": "#3e4f44",
+    "ahmed-hassan": "#3e4f44",
+    "2-010-19-083-000": "#3e4f44",
+    "add-admin": "#f8f9f8",
+    "edit-admin": "#f8f9f8",
+    "my-account": "#f8f9f8",
+    "profile": "#eef4e4",
+    "frame-1000002787": "#ffffff",
+    "entity-logo": "#475467",
+    "frame-427323845": "#ffffff",
+    "icon-with-box": "#74a42d",
+    "frame-1597886600": "#ffffff",
+    "packages-manager": "#f8f9f8",
+    "frame-427323954": "#ffffff",
+    "frame-427323955": "#ffffff",
+    "frame-427323952": "#ffffff",
+    "frame-427323953": "#ffffff",
+    "pre-pay-customer-setup": "#f8f9f8",
+    "pricing": "#f8f9f8",
+    "num": "#3e4f44",
+    "frame-331": "#f2f3f3",
+    "periods--dc---ac": "#3e4f44",
+    "actions": "#3e4f44",
+    "el-obour-banafseg": "#3e4f44",
+    "edit-pricing": "#f8f9f8",
+    "add-custom-pricing": "#f8f9f8",
+    "delete-pricing-alert": "#f8f9f8",
+    "frame-427323118": "#ffffff",
+    "frame-427323958": "#000000",
+    "add-package": "#f8f9f8",
+    "edit-package": "#f8f9f8",
+    "delete-alert": "#f8f9f8",
+    "visibility-on-mobile-application": "#3e4f44",
+    "package-1": "#3e4f44",
+    "plan-100": "#3e4f44",
+    "package-2": "#3e4f44",
+    "plan-250": "#3e4f44",
+    "package-3": "#3e4f44",
+    "plan-500": "#3e4f44",
+    "edit": "#ffffff",
+    "add": "#ffffff",
+    "desktop---751": "#f8f9f8",
+    "semi-private": "#797d79",
+    "session-transaction-id-67484394---invalid": "#011309",
+    "desktop---750": "#f8f9f8",
+    "evoltsoft---app": "#444444",
+    "evsoft---web": "#444444",
+    "home": "#ffffff",
+    "partners": "#ffffff",
+    "locations": "#ffffff",
+    "charger-stations": "#ffffff",
+    "ev-customers": "#ffffff",
+    "transactions": "#ffffff",
+    "coupons": "#ffffff",
+    "subscriptions": "#ffffff",
+    "static-data": "#ffffff",
+    "remote-actions": "#ffffff",
+    "footfall": "#ffffff",
+    "tariff": "#ffffff",
+    "filter": "#ffffff",
+    "": "#ff3b3b",
+    "current---web": "#444444",
+    "ampeco---web": "#444444",
+    "ampeco---app": "#444444",
+    "section-1": "#444444",
+    "desktop---721": "#f8f9f8",
+    "total-chargers": "#1a2217",
+    "desktop---733": "#f8f9f8",
+    "desktop---722": "#f8f9f8",
+    "frame-340": "#ffffff",
+    "desktop---732": "#f8f9f8",
+    "toyota-corolla-2017": "#000000",
+    "frame-427323106": "#ffffff",
+    "frame-427323116": "#ffffff",
+    "frame-427323107": "#ffffff",
+    "file-namepdf": "#1a274f",
+    "423kb": "#78849c",
+    "contract-page-details": "#f4f6f8",
+    "stack": "#f9fafb",
+    "name40": "#100045",
+    "menu": "#eff9fd",
+    "dashboardnavverticalsubheader": "#ffffff",
+    "subheader": "#637381",
+    "frame-1": "#00d9d3",
+    "badge": "#dc5353",
+    "number": "#ffffff",
+    "mask": "#ffffff",
+    "mask-copy": "#007b55",
+    "suggestion-1": "#444444",
+    "suggestion-2": "#444444"
+  },
+  "typography": {
+    "1": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "2": {
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "3": {
+      "fontFamily": "Roboto",
+      "fontSize": 7.857142925262451,
+      "fontWeight": 400,
+      "lineHeight": 11.428571701049805,
+      "letterSpacing": 0.0714285746216774,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "4": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "5": {
+      "fontFamily": "Poppins",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "6": {
+      "fontFamily": "Montserrat",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "lineHeight": 21.941999435424805,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "7": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "8": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "9": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "10": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "12": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "20": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "22": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "24": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "33": {
+      "fontFamily": "Almarai",
+      "fontSize": 20,
+      "fontWeight": 700,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "35": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "40": {
+      "fontFamily": "Montserrat",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "lineHeight": 21.941999435424805,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "42": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "45": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "50": {
+      "fontFamily": "Almarai",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "lineHeight": 40,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "52": {
+      "fontFamily": "Montserrat",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "lineHeight": 21.941999435424805,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "60": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "65": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "80": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "100": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "112": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "144": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "189": {
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 14.628000259399414,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "220": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "250": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "300": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "375": {
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 14.628000259399414,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "380": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "500": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "640": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "700": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "812": {
+      "fontFamily": "Montserrat",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "lineHeight": 21.941999435424805,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "910": {
+      "fontFamily": "Montserrat",
+      "fontSize": 20,
+      "fontWeight": 600,
+      "lineHeight": 24.3799991607666,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "1200": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "1814": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "2336": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "2458": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "3000": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "4024": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "5780": {
+      "fontFamily": "Almarai",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "8700": {
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": 500,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "11632": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "31018": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "52000": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "59217": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "852000": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "4201530": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "5921700": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "12022025": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "59217904": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 29.256000518798828,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "samir-hassan": {
+      "fontFamily": "Montserrat",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 31.19999885559082,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "title": {
+      "fontFamily": "Montserrat",
+      "fontSize": 20,
+      "fontWeight": 400,
+      "lineHeight": 26,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "caption": {
+      "fontFamily": "IBM Plex Sans Arabic",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 18,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "label": {
+      "fontFamily": "Public Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "text": {
+      "fontFamily": "Almarai",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 15.59999942779541,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "text-value": {
+      "fontFamily": "Almarai",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 15.59999942779541,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "value": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "pagetitle": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 18.19999885559082,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "content": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 600,
+      "lineHeight": 22,
+      "letterSpacing": -0.40799999237060547,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "label-text": {
+      "fontFamily": "SF Pro Text",
+      "fontSize": 15,
+      "fontWeight": 600,
+      "lineHeight": 20,
+      "letterSpacing": -0.3199999928474426,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "no": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "type": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "start-date": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "complete-date": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "amount-egp": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "status": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "withdrawal": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "2025-07-14": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charge": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "rows-per-page": {
+      "fontFamily": "Poppins",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "label-start": {
+      "fontFamily": "IBM Plex Sans Arabic",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "label-end": {
+      "fontFamily": "IBM Plex Sans Arabic",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "6-10-of-11": {
+      "fontFamily": "Poppins",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "confirmation-message": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "chargers": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "public": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "private": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "semi-public": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "connectors": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "dc": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ac": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "customers": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "active": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "inactive": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "new": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "sessions": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "trend": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "lineHeight": 28,
+      "letterSpacing": -0.14399999618530274,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "todays-session": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "energy": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "kwh": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "todays-energy": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "today-invalid-billing-sessions": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "total": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "alerts": {
+      "fontFamily": "Montserrat",
+      "fontSize": 19,
+      "fontWeight": 500,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "connector-a20240302010---1-faulted": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "session-transaction-id-67484394---blocked": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "available": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "unavailable": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charging": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "preparing": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "faulted": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "total-connectors": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 19.503999710083008,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "wed-19-may-2021": {
+      "fontFamily": "Poppins",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 16,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "wed-19-may-2022": {
+      "fontFamily": "Poppins",
+      "fontSize": 12,
+      "fontWeight": 600,
+      "lineHeight": 16,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "chargers-condition": {
+      "fontFamily": "Montserrat",
+      "fontSize": 19,
+      "fontWeight": 500,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "revenue": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "egp": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "todays-revenue": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "avg-revenue--session": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "egp--session": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "top-5-revenue-by-owner": {
+      "fontFamily": "Montserrat",
+      "fontSize": 19,
+      "fontWeight": 500,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "---": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "input-hug": {
+      "fontFamily": "Inter",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "author": {
+      "fontFamily": "Inter",
+      "fontSize": 12,
+      "fontWeight": 500,
+      "lineHeight": 14.522727012634277,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "name": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "address": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "governorate": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "partner": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "el-obour-charging-station": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "5f66fpp--el-nahda-al-salam-first-cairo-governorate-4651001-egypt": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "cairo": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ikarus": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "station": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charge-box-id": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "cahrger-sttaus": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 18.19999885559082,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "visibility": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "brand": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "tacw2242622s0214": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "-": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ikega202403020101": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "vodafone-zahraa": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charger-id--tacw2242622s0214": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "city--giza": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "connectors-": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "entered-text": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "connector-id": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "power-type": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "format": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "plug": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "power-kw": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "voltage": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "amperage-a": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "a20240302010---1": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "cable": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ccs2": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "a20240302010---2": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "user": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "connector": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "start": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "end": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "duration": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "energy-kwh": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "revenue-egp": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ahmedsalahgmailcom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "UNDERLINE",
+      "textCase": "none"
+    },
+    "27m": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "action": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "date": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "admin": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "unlock-connector": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "get-configuration": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "remote-stop-transaction": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "message-type": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "start-time": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "end-time": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "direction": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "message": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "status-notifications": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "12-sec": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "from-cp": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "error-code": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "no-error": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "connector-status": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "time-stamp": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "2025-07-14-233601": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "start-transaction": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "id-tag": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "tsf235lo60ujtkh4olzi": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "meter-start": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "error-message-starttransaction-failed-with-status-invalid": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "request": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charger-id-chg-00921128420099--type-metervalues-measured-voltage--value-387-v--id-tag-980348753409843-context-sampleperiodic--location-outlet-1--format-row": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 19.600000381469727,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "sep-2024": {
+      "fontFamily": "Montserrat",
+      "fontSize": 17.38430404663086,
+      "fontWeight": 600,
+      "lineHeight": 21.191465377807617,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ikarus-effortless-control-for-your-ev-chargers": {
+      "fontFamily": "Poppins",
+      "fontSize": 32,
+      "fontWeight": 500,
+      "lineHeight": 48,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "login": {
+      "fontFamily": "Poppins",
+      "fontSize": 28,
+      "fontWeight": 600,
+      "lineHeight": 42,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "min": {
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 14.628000259399414,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "m": {
+      "fontFamily": "Montserrat",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 14.628000259399414,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "owner--vodafone": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "chargers-": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "rating-average": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "emial": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "rating": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "comment": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "mostafagomaagmailcom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "-----------": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "good-app-good-chargers": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "a20240302010---3": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "company-type": {
+      "fontFamily": "Poppins",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "phone": {
+      "fontFamily": "Poppins",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "email": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "limited-liability-companies-lics": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "20-1012345678": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "emailcompanycom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "id": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "valid-from": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "------": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "site-956493": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "warning-message": {
+      "fontFamily": "Montserrat",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "first-name": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "last-name": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "created": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "mostafa": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "gomaa": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "emailuusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "owner": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charger": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "end-date": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "amount": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "al-banfsag-1": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "27-m": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "rule": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "amina": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "el-sayed": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "aminaeusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "super-admin": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "samir": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "hassan": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "samirhusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "backend-developer": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "leila": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "farouk": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "leilafusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "product-manager": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "youssef": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "khaled": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "youssefkusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "data-scientist": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "sara": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "mansour": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "saramusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "quality-assurance": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "omar": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "zaki": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "omarzusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "devops-engineer": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "nadia": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "el-sabbagh": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "nadiaeusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "content-strategist": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "mohamed": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "hassanmusercom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "mobile-developer": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "position": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "frontend-developer": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "uiux-designer": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "customer": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "samirhassangmailcom": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "admin-action": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ahmed-hassan": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "2-010-19-083-000": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "entity-logo": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "num": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "periods--dc---ac": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "actions": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "el-obour-banafseg": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "visibility-on-mobile-application": {
+      "fontFamily": "Montserrat",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "package-1": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "plan-100": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "package-2": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "plan-250": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "package-3": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "plan-500": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "packages-manager": {
+      "fontFamily": "Poppins",
+      "fontSize": 64,
+      "fontWeight": 600,
+      "lineHeight": 83.19999694824219,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "pre-pay-customer-setup": {
+      "fontFamily": "Poppins",
+      "fontSize": 64,
+      "fontWeight": 600,
+      "lineHeight": 83.19999694824219,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "pricing": {
+      "fontFamily": "Poppins",
+      "fontSize": 64,
+      "fontWeight": 600,
+      "lineHeight": 83.19999694824219,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "edit": {
+      "fontFamily": "Poppins",
+      "fontSize": 64,
+      "fontWeight": 600,
+      "lineHeight": 83.19999694824219,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "add": {
+      "fontFamily": "Poppins",
+      "fontSize": 64,
+      "fontWeight": 600,
+      "lineHeight": 83.19999694824219,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "semi-private": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 500,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "session-transaction-id-67484394---invalid": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "home": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "partners": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "locations": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "charger-stations": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "ev-customers": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "transactions": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "coupons": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "subscriptions": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "static-data": {
+      "fontFamily": "Inter",
+      "fontSize": 128,
+      "fontWeight": 600,
+      "lineHeight": 154.90908813476562,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "remote-actions": {
+      "fontFamily": "Inter",
+      "fontSize": 88,
+      "fontWeight": 600,
+      "lineHeight": 106.5,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "footfall": {
+      "fontFamily": "Inter",
+      "fontSize": 88,
+      "fontWeight": 600,
+      "lineHeight": 106.5,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "tariff": {
+      "fontFamily": "Inter",
+      "fontSize": 88,
+      "fontWeight": 600,
+      "lineHeight": 106.5,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "filter": {
+      "fontFamily": "Inter",
+      "fontSize": 88,
+      "fontWeight": 600,
+      "lineHeight": 106.5,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "": {
+      "fontFamily": "Montserrat",
+      "fontSize": 51.21950912475586,
+      "fontWeight": 400,
+      "lineHeight": 80.48780059814453,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "total-chargers": {
+      "fontFamily": "Montserrat",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 17.06599998474121,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "toyota-corolla-2017": {
+      "fontFamily": "Almarai",
+      "fontSize": 24,
+      "fontWeight": 400,
+      "lineHeight": 26,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "file-namepdf": {
+      "fontFamily": "Almarai",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "423kb": {
+      "fontFamily": "Almarai",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "name40": {
+      "fontFamily": "Almarai",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "lineHeight": 22,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    },
+    "subheader": {
+      "fontFamily": "Public Sans",
+      "fontSize": 11,
+      "fontWeight": 700,
+      "lineHeight": 18,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "UPPER"
+    },
+    "number": {
+      "fontFamily": "Public Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "none",
+      "textCase": "none"
+    }
+  },
+  "spacing": {
+    "1": "0px",
+    "2": "1px",
+    "3": "2px",
+    "4": "3px",
+    "5": "4px",
+    "6": "5px",
+    "7": "6px",
+    "8": "7px",
+    "9": "8px",
+    "10": "9px",
+    "11": "10px",
+    "12": "11px",
+    "13": "12px",
+    "14": "14px",
+    "15": "15px",
+    "16": "16px",
+    "17": "18px",
+    "18": "20px",
+    "19": "21px",
+    "20": "22px",
+    "21": "23px",
+    "22": "24px",
+    "23": "26px",
+    "24": "28px",
+    "25": "30px",
+    "26": "32px",
+    "27": "35px",
+    "28": "36px",
+    "29": "38px",
+    "30": "39px",
+    "31": "40px",
+    "32": "41px",
+    "33": "42px",
+    "34": "43px",
+    "35": "44px",
+    "36": "50px",
+    "37": "52px",
+    "38": "56px",
+    "39": "64px",
+    "40": "68px",
+    "41": "80px",
+    "42": "84px",
+    "43": "88px",
+    "44": "93px",
+    "45": "94px",
+    "46": "100px",
+    "47": "108px",
+    "48": "112px",
+    "49": "120px",
+    "50": "131px",
+    "51": "245px",
+    "52": "575px",
+    "53": "578px",
+    "54": "639px",
+    "55": "783px",
+    "56": "788px",
+    "57": "824px"
+  },
+  "sizes": {
+    "1": "2px",
+    "2": "3px",
+    "3": "4px",
+    "4": "5px",
+    "5": "6px",
+    "6": "8px",
+    "7": "9px",
+    "8": "10px",
+    "9": "11px",
+    "10": "12px",
+    "11": "16px",
+    "12": "20px",
+    "13": "25px",
+    "14": "30px",
+    "15": "32px",
+    "16": "35px",
+    "17": "38px",
+    "18": "43px",
+    "19": "45px",
+    "20": "49px",
+    "21": "50px",
+    "22": "62px",
+    "23": "71px",
+    "24": "100px",
+    "25": "377px",
+    "26": "999px"
+  },
+  "effects": {
+    "property-1main": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(233, 240, 228, 0.3199999928474426)",
+      "offset": {
+        "x": 20,
+        "y": -10
+      },
+      "radius": 60,
+      "spread": 0,
+      "css": "20px -10px 60px 0px rgba(233, 240, 228, 0.3199999928474426)"
+    },
+    "property-1billing": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(233, 240, 228, 0.3199999928474426)",
+      "offset": {
+        "x": 20,
+        "y": -10
+      },
+      "radius": 60,
+      "spread": 0,
+      "css": "20px -10px 60px 0px rgba(233, 240, 228, 0.3199999928474426)"
+    },
+    "property-1user-management": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(233, 240, 228, 0.3199999928474426)",
+      "offset": {
+        "x": 20,
+        "y": -10
+      },
+      "radius": 60,
+      "spread": 0,
+      "css": "20px -10px 60px 0px rgba(233, 240, 228, 0.3199999928474426)"
+    },
+    "property-1foucesd": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(84, 116, 69, 0.11999999731779099)",
+      "offset": {
+        "x": 0,
+        "y": 4
+      },
+      "radius": 12,
+      "spread": 0,
+      "css": "0px 4px 12px 0px rgba(84, 116, 69, 0.11999999731779099)"
+    },
+    "property-1default": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "property-1variant2": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "property-1variant3": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "typetoast-3": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.1599999964237213)",
+      "offset": {
+        "x": 0,
+        "y": 4
+      },
+      "radius": 16,
+      "spread": 0,
+      "css": "0px 4px 16px 0px rgba(0, 0, 0, 0.1599999964237213)"
+    },
+    "typetoast-2": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.1599999964237213)",
+      "offset": {
+        "x": 0,
+        "y": 4
+      },
+      "radius": 16,
+      "spread": 0,
+      "css": "0px 4px 16px 0px rgba(0, 0, 0, 0.1599999964237213)"
+    },
+    "typetoast-1": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.1599999964237213)",
+      "offset": {
+        "x": 0,
+        "y": 4
+      },
+      "radius": 16,
+      "spread": 0,
+      "css": "0px 4px 16px 0px rgba(0, 0, 0, 0.1599999964237213)"
+    },
+    "side-menu": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(233, 240, 228, 0.3199999928474426)",
+      "offset": {
+        "x": 20,
+        "y": -10
+      },
+      "radius": 60,
+      "spread": 0,
+      "css": "20px -10px 60px 0px rgba(233, 240, 228, 0.3199999928474426)"
+    },
+    "filter-menu": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "card": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "base": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.25)",
+      "offset": {
+        "x": 0,
+        "y": 3
+      },
+      "radius": 3,
+      "spread": 0,
+      "css": "0px 3px 3px 0px rgba(0, 0, 0, 0.25)"
+    },
+    "content": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(145, 158, 171, 0.23999999463558197)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 40,
+      "spread": -4,
+      "css": "0px 0px 40px -4px rgba(145, 158, 171, 0.23999999463558197)"
+    },
+    "frame": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.07999999821186066)",
+      "offset": {
+        "x": 0,
+        "y": 6
+      },
+      "radius": 16,
+      "spread": 0,
+      "css": "0px 6px 16px 0px rgba(0, 0, 0, 0.07999999821186066)"
+    },
+    "search": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-26877": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323121": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(145, 158, 171, 0.23999999463558197)",
+      "offset": {
+        "x": -20,
+        "y": 20
+      },
+      "radius": 40,
+      "spread": -4,
+      "css": "-20px 20px 40px -4px rgba(145, 158, 171, 0.23999999463558197)"
+    },
+    "frame-427323842": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323882": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "pop-over": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(145, 158, 171, 0.23999999463558197)",
+      "offset": {
+        "x": 10,
+        "y": 10
+      },
+      "radius": 32,
+      "spread": -4,
+      "css": "10px 10px 32px -4px rgba(145, 158, 171, 0.23999999463558197)"
+    },
+    "frame-427323837": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323840": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323849": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323861": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323863": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323862": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323338": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "tabs-chevron-right": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(145, 158, 171, 0.23999999463558197)",
+      "offset": {
+        "x": -20,
+        "y": 20
+      },
+      "radius": 40,
+      "spread": -4,
+      "css": "-20px 20px 40px -4px rgba(145, 158, 171, 0.23999999463558197)"
+    },
+    "toast": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.1599999964237213)",
+      "offset": {
+        "x": 0,
+        "y": 4
+      },
+      "radius": 16,
+      "spread": 0,
+      "css": "0px 4px 16px 0px rgba(0, 0, 0, 0.1599999964237213)"
+    },
+    "input-field-status": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(84, 116, 69, 0.11999999731779099)",
+      "offset": {
+        "x": 0,
+        "y": 4
+      },
+      "radius": 12,
+      "spread": 0,
+      "css": "0px 4px 12px 0px rgba(84, 116, 69, 0.11999999731779099)"
+    },
+    "frame-427323883": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323851": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323852": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323853": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "calendar-days": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(145, 158, 171, 0.23999999463558197)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 40,
+      "spread": -4,
+      "css": "0px 0px 40px -4px rgba(145, 158, 171, 0.23999999463558197)"
+    },
+    "frame-427323864": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323865": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323881": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323843": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323844": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "icon": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(15, 17, 20, 0.05999999865889549)",
+      "offset": {
+        "x": 0,
+        "y": 1
+      },
+      "radius": 2,
+      "spread": 0,
+      "css": "0px 1px 2px 0px rgba(15, 17, 20, 0.05999999865889549)"
+    },
+    "frame-427323845": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323954": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323955": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323952": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "frame-427323953": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.019999999552965164)",
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 8,
+      "spread": 0,
+      "css": "0px 0px 8px 0px rgba(0, 0, 0, 0.019999999552965164)"
+    },
+    "mask": {
+      "type": "DROP_SHADOW",
+      "color": "rgba(0, 0, 0, 0.1599999964237213)",
+      "offset": {
+        "x": 0,
+        "y": 1
+      },
+      "radius": 1,
+      "spread": 0,
+      "css": "0px 1px 1px 0px rgba(0, 0, 0, 0.1599999964237213)"
+    }
+  },
+  "exportedAt": "2025-11-09T09:49:22.712Z"
+}

@@ -1,0 +1,39 @@
+.country-select-placeholder {
+  color: #7f8a83;
+  font-weight: 400;
+}
+
+.country-select-menu {
+  gap: 6px;
+  padding: 10px;
+}
+
+.country-select-option {
+  width: 100%;
+  min-height: 42px;
+  padding: 10px 14px;
+  border: none;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #102010;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.country-select-option:hover {
+  background: rgba(var(--theme-primary-rgb), 0.08);
+}
+
+.country-select-option.selected {
+  background: rgba(var(--theme-primary-rgb), 0.14);
+  color: #1b3d0d;
+}
+
+.country-select-option__label {
+  display: block;
+  min-width: 0;
+}

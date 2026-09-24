@@ -1,0 +1,290 @@
+.invitation-shell {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 36px 16px;
+  background:
+    radial-gradient(circle at 12% 14%, rgba(var(--theme-primary-rgb), 0.12), transparent 48%),
+    radial-gradient(circle at 88% 78%, rgba(var(--theme-secondary-rgb), 0.12), transparent 46%),
+    linear-gradient(180deg, #f8faf7 0%, #eef2ec 100%);
+}
+
+.invitation-card {
+  width: min(920px, 100%);
+  background: #ffffff;
+  border: 1px solid rgba(1, 19, 9, 0.08);
+  border-radius: 20px;
+  box-shadow: 0 18px 36px rgba(1, 19, 9, 0.08);
+  padding: 28px;
+}
+
+.invitation-loading,
+.invitation-error-card,
+.invitation-success-card {
+  width: min(560px, 100%);
+  text-align: center;
+  padding: 38px 30px;
+}
+
+.invitation-loading {
+  color: #67716b;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.invitation-error-card h1,
+.invitation-success-card h1 {
+  margin: 0 0 10px;
+  color: #011309;
+  font-family: var(--font-display, 'Poppins', sans-serif);
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.invitation-error-card p,
+.invitation-success-card p {
+  margin: 0;
+  color: #3e4f44;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.invitation-success-icon {
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 16px;
+}
+
+.invitation-success-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.invitation-success-icon circle {
+  fill: rgba(var(--color-success-rgb), 0.14);
+  stroke: #2ea561;
+  stroke-width: 1.4;
+}
+
+.invitation-success-icon path {
+  stroke: #2ea561;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.invitation-header {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.invitation-badge {
+  margin: 0;
+  color: var(--theme-secondary);
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.invitation-header h1 {
+  margin: 0;
+  color: #011309;
+  font-family: var(--font-display, 'Poppins', sans-serif);
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.invitation-header p {
+  margin: 0;
+  color: #67716b;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.invitation-expiry {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  gap: 6px;
+  margin-top: 2px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(var(--theme-primary-rgb), 0.12);
+  color: #3e4f44;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.invitation-readonly-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.invitation-readonly-item {
+  background: #f2f5f1;
+  border: 1px solid rgba(1, 19, 9, 0.05);
+  border-radius: 12px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.invitation-readonly-item span {
+  color: #67716b;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.invitation-readonly-item strong {
+  color: #011309;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 15px;
+  font-weight: 600;
+  word-break: break-word;
+}
+
+.invitation-alert {
+  margin-bottom: 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(237, 74, 74, 0.28);
+  background: #fff0f0;
+  color: #9b2f2f;
+  padding: 12px 14px;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.invitation-form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.invitation-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.invitation-field label {
+  color: #011309;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.invitation-input {
+  width: 100%;
+  min-height: 46px;
+  border-radius: 12px;
+  border: 1px solid #ccd4cf;
+  background: #ffffff;
+  padding: 11px 13px;
+  color: #011309;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 14px;
+  font-weight: 500;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.invitation-input:focus {
+  border-color: var(--theme-primary);
+  box-shadow: 0 0 0 3px rgba(var(--theme-primary-rgb), 0.18);
+  outline: none;
+}
+
+.invitation-input:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  background: #f6f8f6;
+}
+
+.invitation-error {
+  color: #d63f3f;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.invitation-submit-row {
+  grid-column: 1 / -1;
+  margin-top: 8px;
+}
+
+.invitation-submit {
+  min-height: 48px;
+  padding: 0 22px;
+  border: none;
+  border-radius: 12px;
+  background: var(--theme-primary);
+  color: #ffffff;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 14px 28px rgba(var(--theme-primary-rgb), 0.24);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.invitation-submit:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 18px 30px rgba(var(--theme-primary-rgb), 0.28);
+  background: rgba(var(--theme-primary-rgb), 0.95);
+}
+
+.invitation-submit:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.invitation-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 18px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  background: var(--theme-secondary);
+  color: #ffffff;
+  text-decoration: none;
+  font-family: var(--font-body, 'Montserrat', sans-serif);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.invitation-action:hover {
+  background: rgba(var(--theme-secondary-rgb), 0.94);
+}
+
+@media (max-width: 768px) {
+  .invitation-card {
+    padding: 20px;
+    border-radius: 16px;
+  }
+
+  .invitation-header h1 {
+    font-size: 24px;
+  }
+
+  .invitation-readonly-grid,
+  .invitation-form-grid {
+    grid-template-columns: 1fr;
+  }
+}
