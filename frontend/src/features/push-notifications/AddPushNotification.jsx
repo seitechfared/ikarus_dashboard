@@ -3,8 +3,8 @@ import { useNavigate, useParams } from 'react-router-dom'
 import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
 import CountrySelect from '@/components/ui/molecules/CountrySelect'
-import SearchableMultiSelect from '@/components/common/SearchableMultiSelect'
-import { InlineToastRegion, useToast } from '@/components/common/ToastProvider'
+import SearchableMultiSelect from '@/components/ui/organisms/SearchableMultiSelect'
+import { InlineToastRegion, useToast } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import {
   createPushNotification,

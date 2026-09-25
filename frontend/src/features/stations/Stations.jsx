@@ -3,7 +3,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
-import DeleteConfirmationModal from '@/components/common/DeleteConfirmationModal'
+import DeleteConfirmationModal from '@/components/ui/organisms/DeleteConfirmationModal'
 import {
   API_BASE,
   GOOGLE_MAPS_API_KEY,
@@ -24,9 +24,9 @@ import {
   normalizeChargerStatus,
 } from '@/utils/status'
 import { appendAuthHeader } from '@/utils/session'
-import StationActionMenu from '@/components/common/StationActionMenu'
+import StationActionMenu from '@/components/ui/organisms/StationActionMenu'
 import { fetchCountries } from '@/services/referenceApi'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useDashboardLiveUpdates from '@/hooks/useDashboardLiveUpdates'
 import useInlineToast from '@/hooks/useInlineToast'
 import '@/styles/dashboard.css'
