@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { GoogleMap, Marker } from '@react-google-maps/api'
 import { useNavigate, useOutletContext } from 'react-router-dom'
-import Breadcrumbs from '@/components/navigation/Breadcrumbs'
-import BackButton from '@/components/navigation/BackButton'
+import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
+import BackButton from '@/components/ui/molecules/navigation/BackButton'
 import {
   API_BASE,
   GOOGLE_MAPS_API_KEY,
@@ -18,7 +18,7 @@ import {
 import { appendAuthHeader } from '@/utils/session'
 import { InlineToastRegion } from '@/components/common/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
-import PillDropdown from '@/components/PillDropdown'
+import PillDropdown from '@/components/ui/molecules/PillDropdown'
 import { validateName } from '@/utils/validation'
 import { fetchAllPages } from '@/utils/fetchAllPages'
 import '@/styles/dashboard.css'

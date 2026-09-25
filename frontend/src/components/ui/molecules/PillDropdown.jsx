@@ -1,6 +1,6 @@
 import { useMemo, useState, useRef, useEffect } from 'react'
-import { ChevronDown } from '@/components/ChevronDown'
-import { ChevronUp } from '@/components/ChevronUp'
+import { ChevronDown } from '@/components/ui/atoms/ChevronDown'
+import { ChevronUp } from '@/components/ui/atoms/ChevronUp'
 import '@/styles/dashboard.css'
 
 const PlusIcon = () => (

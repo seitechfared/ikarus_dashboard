@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useOutletContext } from 'react-router-dom'
-import Breadcrumbs from '@/components/navigation/Breadcrumbs'
+import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import { InlineToastRegion } from '@/components/common/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import { API_BASE } from '@/constants'
