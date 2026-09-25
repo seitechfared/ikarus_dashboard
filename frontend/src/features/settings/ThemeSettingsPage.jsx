@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useOutletContext } from 'react-router-dom'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import { buildMediaUrl } from '@/utils/media'
 import { defaultTheme, normalizeTheme } from '@/utils/theme'

@@ -1,5 +1,5 @@
 import { useCallback, useMemo } from 'react'
-import { useToast } from '@/components/common/ToastProvider'
+import { useToast } from '@/components/ui/organisms/ToastProvider'
 
 export default function useInlineToast(region = 'inline-default') {
   const toast = useToast()

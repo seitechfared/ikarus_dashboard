@@ -16,7 +16,7 @@ import {
   useGoogleMapsLoader,
 } from '@/utils/mapConfig'
 import { appendAuthHeader } from '@/utils/session'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import PillDropdown from '@/components/ui/molecules/PillDropdown'
 import { validateName } from '@/utils/validation'

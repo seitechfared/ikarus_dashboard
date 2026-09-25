@@ -2,9 +2,9 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
-import DeleteConfirmationModal from '@/components/common/DeleteConfirmationModal'
-import StationActionMenu from '@/components/common/StationActionMenu'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import DeleteConfirmationModal from '@/components/ui/organisms/DeleteConfirmationModal'
+import StationActionMenu from '@/components/ui/organisms/StationActionMenu'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import {
   deletePushNotification,
