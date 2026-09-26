@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useOutletContext } from 'react-router-dom'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import ReferenceManagerPage from './ReferenceManagerPage'
 import { fetchCountries } from '@/services/referenceApi'

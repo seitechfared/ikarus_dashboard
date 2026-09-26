@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import { DashboardLiveUpdatesContext } from '@/components/common/DashboardLiveUpdatesProvider'
+import { DashboardLiveUpdatesContext } from '@/components/ui/organisms/DashboardLiveUpdatesProvider'
 
 export default function useDashboardLiveUpdates() {
   const context = useContext(DashboardLiveUpdatesContext)

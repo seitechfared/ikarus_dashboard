@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
-import { useToast } from '@/components/common/ToastProvider'
+import { useToast } from '@/components/ui/organisms/ToastProvider'
 import PillDropdown from '@/components/ui/molecules/PillDropdown'
 
 const actionRequiresFieldValue = (field, value) => {

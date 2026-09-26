@@ -1,16 +1,16 @@
-ï»¿import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
-import ConnectorActionMenu from '@/components/common/ConnectorActionMenu'
+import ConnectorActionMenu from '@/components/ui/organisms/ConnectorActionMenu'
 import ConnectorRemoteActionsDrawer from './ConnectorRemoteActionsDrawer'
 import { fetchCountries } from '@/services/referenceApi'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import useDashboardLiveUpdates from '@/hooks/useDashboardLiveUpdates'
-import DeleteConfirmationModal from '@/components/common/DeleteConfirmationModal'
+import DeleteConfirmationModal from '@/components/ui/organisms/DeleteConfirmationModal'
 import {
   CONNECTOR_STATUS_BACKGROUNDS,
   CONNECTOR_STATUS_COLORS,
@@ -1151,7 +1151,7 @@ function Connectors() {
         {error ? (
           <p className="connectors-empty-state data-warning">{error}</p>
         ) : isLoading ? (
-          <p className="connectors-empty-state data-placeholder">Loading connectorsâ€¦</p>
+          <p className="connectors-empty-state data-placeholder">Loading connectors…</p>
         ) : connectors.length === 0 ? (
           <p className="connectors-empty-state data-placeholder">No connectors match the selected filters.</p>
         ) : (
@@ -1160,11 +1160,11 @@ function Connectors() {
               connector.charger?.name ||
               connector.charger_name
             const connectorIdDisplay =
-              connector.identifier || (connector.connector_number != null ? `#${connector.connector_number}` : 'â€”')
+              connector.identifier || (connector.connector_number != null ? `#${connector.connector_number}` : '—')
             const connectorStatus = connector.status
-            const energyType = connector.energy_type?.label || connector.energy_type?.value || 'â€”'
+            const energyType = connector.energy_type?.label || connector.energy_type?.value || '—'
             const displayNumber = String(pageOffset + index + 1).padStart(2, '0')
-            const formatMetric = (value) => (value || value === 0 ? value : 'â€”')
+            const formatMetric = (value) => (value || value === 0 ? value : '—')
             const canSelectConnector = connector?.id !== undefined && connector?.id !== null
             const isSelected = canSelectConnector && selectedConnectorIds.has(connector.id)
             const connectorLabel =
@@ -1211,12 +1211,12 @@ function Connectors() {
                   <span>{displayNumber}</span>
                 </div>
                 <div className="charger-cell connector-cell connector-station">
-                  <span className="connector-name">{chargerName || 'â€”'}</span>
+                  <span className="connector-name">{chargerName || '—'}</span>
                 </div>
                 <div className="charger-cell connector-cell connector-governorate">
-                  {connector.governorate || connector.charger?.station?.governorate || 'â€”'}
+                  {connector.governorate || connector.charger?.station?.governorate || '—'}
                 </div>
-                <div className="charger-cell connector-cell connector-box">{connector.charger_box_id || 'â€”'}</div>
+                <div className="charger-cell connector-cell connector-box">{connector.charger_box_id || '—'}</div>
                 <div className="charger-cell connector-cell connector-id">{connectorIdDisplay}</div>
                 <div className="charger-cell connector-cell connector-type">{energyType}</div>
                 <div className="charger-cell connector-cell connector-metric">{formatMetric(connector.power_kw)}</div>
@@ -1240,7 +1240,7 @@ function Connectors() {
                       {connectorStatus.label || connectorStatus.value}
                     </span>
                   ) : (
-                    'â€”'
+                    '—'
                   )}
                 </div>
                 <div

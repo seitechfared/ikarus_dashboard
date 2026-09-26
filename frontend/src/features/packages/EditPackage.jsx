@@ -3,7 +3,7 @@ import { useLocation, useNavigate, useParams, useSearchParams } from 'react-rout
 import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
 import CountryFilterMenu from '@/components/ui/molecules/CountryFilterMenu'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import { createPackage, fetchCountries, fetchPackage, updatePackage } from '@/services/referenceApi'
 import { validateName, validatePositiveNumber } from '@/utils/validation'

@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useOutletContext } from 'react-router-dom'
-import { useToast } from '@/components/common/ToastProvider'
+import { useToast } from '@/components/ui/organisms/ToastProvider'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
 import { fetchCountries } from '@/services/referenceApi'

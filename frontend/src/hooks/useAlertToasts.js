@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
-import { useToast } from '@/components/common/ToastProvider'
+import { useToast } from '@/components/ui/organisms/ToastProvider'
 
 const ALERT_POLL_INTERVAL_MS = 15000
 const SEVERITY_VARIANTS = {

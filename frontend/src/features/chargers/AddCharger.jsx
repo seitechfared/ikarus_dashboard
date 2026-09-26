@@ -6,7 +6,7 @@ import PillDropdown from '@/components/ui/molecules/PillDropdown'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
 import { buildMediaUrl } from '@/utils/media'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import { fetchAllPages } from '@/utils/fetchAllPages'
 import {

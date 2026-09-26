@@ -4,7 +4,7 @@ import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
 import PillDropdown from '@/components/ui/molecules/PillDropdown'
 import CountryFilterMenu from '@/components/ui/molecules/CountryFilterMenu'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
 import { deleteChargerPricing, fetchAllChargers, fetchChargerPricing, fetchGeneralPricing, updateChargerPricing, } from './pricingApi'
 import { fetchCountries } from '@/services/referenceApi'
@@ -20,7 +20,7 @@ import {
   validateCustomPeriodLabels,
 } from './pricingHelpers'
 import { validateNonNegativeNumber } from '@/utils/validation'
-import DeleteConfirmationModal from '@/components/common/DeleteConfirmationModal'
+import DeleteConfirmationModal from '@/components/ui/organisms/DeleteConfirmationModal'
 import '@/styles/dashboard.css'
 
 const createInitialForm = () => ({

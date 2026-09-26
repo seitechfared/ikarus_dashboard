@@ -3,9 +3,9 @@ import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
 import BackButton from '@/components/ui/molecules/navigation/BackButton'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
-import { InlineToastRegion } from '@/components/common/ToastProvider'
+import { InlineToastRegion } from '@/components/ui/organisms/ToastProvider'
 import useInlineToast from '@/hooks/useInlineToast'
-import DateFilterPicker from '@/components/common/DateFilterPicker'
+import DateFilterPicker from '@/components/ui/organisms/DateFilterPicker'
 import '@/styles/dashboard.css'
 
 const DEFAULT_PAGE_SIZE = 25
