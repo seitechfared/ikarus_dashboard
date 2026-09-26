@@ -2,9 +2,9 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { buildMediaUrl } from '@/utils/media'
 import { DASHBOARD_LOGO_URL } from '@/constants'
-import { ChevronDown } from '@/components/ui/atoms/ChevronDown'
-import { ChevronUp } from '@/components/ui/atoms/ChevronUp'
-import { IconBigDot } from '@/components/ui/atoms/IconBigDot'
+import { ChevronDown } from '@/components/ChevronDown'
+import { ChevronUp } from '@/components/ChevronUp'
+import { IconBigDot } from '@/components/IconBigDot'
 import { deriveRoleCapabilities } from '@/utils/adminRoles'
 import { applyTheme, defaultTheme, normalizeTheme } from '@/utils/theme'
 import { fetchThemeSettings } from '@/services/themeSettingsApi'
@@ -20,7 +20,7 @@ import {
   SessionsIcon,
   SettingsIcon,
   PushNotificationsIcon,
-} from '@/components/ui/atoms/icons/MenuIcons'
+} from '@/components/icons/MenuIcons'
 import '@/styles/dashboard.css'
 
 const DEFAULT_PAGE_TITLE = 'Ikarus Electric'

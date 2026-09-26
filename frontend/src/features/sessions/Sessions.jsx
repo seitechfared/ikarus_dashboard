@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
-import BackButton from '@/components/ui/molecules/navigation/BackButton'
+import Breadcrumbs from '@/components/navigation/Breadcrumbs'
+import BackButton from '@/components/navigation/BackButton'
 import DeleteConfirmationModal from '@/components/ui/organisms/DeleteConfirmationModal'
 import StationActionMenu from '@/components/ui/organisms/StationActionMenu'
 import { API_BASE } from '@/constants'

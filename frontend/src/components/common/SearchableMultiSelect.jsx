@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { ChevronDown } from '@/components/ui/atoms/ChevronDown'
-import { ChevronUp } from '@/components/ui/atoms/ChevronUp'
+import { ChevronDown } from '@/components/ChevronDown'
+import { ChevronUp } from '@/components/ChevronUp'
 import './SearchableMultiSelect.css'
 import '@/styles/dashboard.css'
 

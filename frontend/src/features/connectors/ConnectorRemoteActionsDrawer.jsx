@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { API_BASE } from '@/constants'
 import { appendAuthHeader } from '@/utils/session'
 import { useToast } from '@/components/ui/organisms/ToastProvider'
-import PillDropdown from '@/components/ui/molecules/PillDropdown'
+import PillDropdown from '@/components/PillDropdown'
 
 const actionRequiresFieldValue = (field, value) => {
   if (!field.required) {

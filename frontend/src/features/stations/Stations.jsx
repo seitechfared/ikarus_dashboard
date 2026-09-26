@@ -1,8 +1,8 @@
 import { GoogleMap, InfoWindow, Marker } from '@react-google-maps/api'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import Breadcrumbs from '@/components/ui/molecules/navigation/Breadcrumbs'
-import BackButton from '@/components/ui/molecules/navigation/BackButton'
+import Breadcrumbs from '@/components/navigation/Breadcrumbs'
+import BackButton from '@/components/navigation/BackButton'
 import DeleteConfirmationModal from '@/components/ui/organisms/DeleteConfirmationModal'
 import {
   API_BASE,
